@@ -12,9 +12,7 @@ based on travel details and service ratings.
 
 ## 🌐 Live Demo
 
-👉 https://your-app-name.streamlit.app  
-
-*(Add your deployed link here after hosting)*
+https://airline-satisfaction-prediction-app-cqdapdpkakhexiwluuca7g.streamlit.app/
 
 ---
 
